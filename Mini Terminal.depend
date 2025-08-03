@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1754221446 source:e:\projects\mini terminal\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<direct.h>
+	<windows.h>
+	<iomanip>
+
